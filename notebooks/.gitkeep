@@ -216,23 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-
-# Virtual environments and Python cache
-.venv/
-__pycache__/
-*.py[cod]
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# OS/editor files
-.DS_Store
-.vscode/
-
-# Assessment data and generated files
-data/*.csv
-outputs/figures/*
-outputs/tables/*
-!outputs/figures/.gitkeep
-!outputs/tables/.gitkeep
