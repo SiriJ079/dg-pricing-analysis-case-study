@@ -231,8 +231,5 @@ __pycache__/
 .vscode/
 
 # Assessment data and generated files
-data/*.csv
-outputs/figures/*
-outputs/tables/*
 !outputs/figures/.gitkeep
 !outputs/tables/.gitkeep
