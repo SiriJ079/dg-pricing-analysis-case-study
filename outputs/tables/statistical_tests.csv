@@ -1,0 +1,6 @@
+comparison,test,statistic,p_value
+ASIS vs @22% (offered_premium),Welch t-test,-12.797736537066024,3.465741752715531e-36
+ASIS vs @23% (offered_premium),Welch t-test,-6.169870180661665,8.160815336567732e-10
+@22% vs @23% (offered_premium),Welch t-test,8.657217708301372,5.815867169121307e-18
+@22% vs @23% (price_diff),Welch t-test,21.71518072208361,1.515598552192114e-101
+"All strategies (conversion, chi-square)",Chi-square,0.9834558397974846,0.6115687388823854
