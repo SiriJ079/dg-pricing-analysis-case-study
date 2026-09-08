@@ -1,0 +1,5 @@
+comparison_type,strategy,elasticity
+Between groups,@22% vs ASIS,-0.43574300211721223
+Between groups,@23% vs ASIS,-0.4640819392844105
+Within group,@22% (low vs high price),0.6604954793651324
+Within group,@23% (low vs high price),0.17116935479174072
