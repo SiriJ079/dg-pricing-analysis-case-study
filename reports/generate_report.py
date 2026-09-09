@@ -4,7 +4,7 @@ import pandas as pd
 
 FIGURES_DIR = Path("../outputs/figures")
 TABLES_DIR = Path("../outputs/tables")
-OUTPUT_PATH = Path("executive_summary.pdf")
+OUTPUT_PATH = Path("../reports/executive_summary.pdf")
 
 class Report(PDF := FPDF):
     def header(self):
