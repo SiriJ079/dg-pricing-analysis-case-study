@@ -1,0 +1,6 @@
+comparison,p_value,significant_at_5pct
+ASIS vs @22% (offered_premium),3.465741752715531e-36,True
+ASIS vs @23% (offered_premium),8.160815336567731e-10,True
+@22% vs @23% (offered_premium),5.815867169121307e-18,True
+@22% vs @23% (price_diff),1.515598552192114e-101,True
+"All strategies (conversion, chi-square)",0.6115687388823854,False

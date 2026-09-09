@@ -1,0 +1,5 @@
+criterion,best_strategy,value
+Statistical: conversion difference vs ASIS,@23%,0.2265482100862294
+Statistical: premium difference vs ASIS,@22%,55.212602600050985
+Revenue: avg realised uplift per sale,@22%,6.417916666666666
+Revenue: total realised uplift,@22%,5545.079999999999
